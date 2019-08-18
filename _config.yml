@@ -2,7 +2,7 @@ plugins:
   - jekyll-redirect-from
 
 ---
-redirect_from: /proffilms/gallery
+redirect_from: /proffilms/*
 ---
 
 redirect_to: /proffilms
