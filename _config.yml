@@ -2,7 +2,7 @@ plugins:
   - jekyll-redirect-from
 
 ---
-redirect_from: "/*"
+redirect_from: /*
 ---
 
-redirect_to: "/proffilms"
+redirect_to: /proffilms
